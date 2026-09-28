@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jade Ashley
 
-<!--
-**vjadeashley/vjadeashley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from Clemson University with 3+ years of experience in software quality assurance.
 
-Here are some ideas to get you started:
+I enjoy troubleshooting software issues, finding and documenting defects, creating test cases, and helping teams improve their processes. I'm also interested in software development, data, and technical problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Interested In
+
+- Software Quality Assurance & Testing
+- Junior QA Engineering
+- Software Troubleshooting
+- Data & Problem Solving
+- Technical Documentation
+- Process Improvement
+
+## Technical Skills
+
+**Languages:** Java, Python, C, C++
+
+**Other:** SQL, Software Testing, API Testing, Defect Tracking, Root Cause Analysis, Technical Documentation
+
+## Featured Projects
+
+Projects coming soon!
