@@ -1,24 +1,27 @@
 # Hi, I'm Jade Ashley
 
-I'm a Computer Science graduate from Clemson University with 3+ years of experience in software quality assurance.
+I'm a Computer Science graduate from Clemson University moving into **data analytics and database work**. I have 3+ years of experience in software quality assurance, which taught me to care about data accuracy, edge cases, and documenting my work clearly.
 
-I enjoy troubleshooting software issues, finding and documenting defects, creating test cases, and helping teams improve their processes. I'm also interested in software development, data, and technical problem solving.
+I like working with SQL to find answers in data and turn them into clear reports.
 
-## What I'm Interested In
+## What I'm Looking For
 
-- Software Quality Assurance & Testing
-- Junior QA Engineering
-- Software Troubleshooting
-- Data & Problem Solving
-- Technical Documentation
-- Process Improvement
+- Data Analyst / Business Analyst roles
+- Reporting and BI Analyst roles
+- Junior Database / SQL Developer roles
 
 ## Technical Skills
 
-**Languages:** Java, Python, C, C++
+**Data & Databases:** SQL (MySQL), relational database design, joins, aggregations, views
 
-**Other:** SQL, Software Testing, API Testing, Defect Tracking, Root Cause Analysis, Technical Documentation
+**Programming:** Python, Java, C, C++
 
-## Featured Projects
+**Other:** Data validation, software testing, root cause analysis, defect tracking, technical documentation
 
-Projects coming soon!
+## Featured Project
+
+**[Pizza Ordering Database](https://github.com/vjadeashley/cpsc4620-pizza-database)**: a MySQL database with SQL reporting views (profit by order type, profit by pizza, topping popularity) and analytics queries for a pizza ordering business.
+
+## Connect
+
+[LinkedIn: (https://www.linkedin.com/in/jade-ashley-838951351/) | [Email: jadeashley159@gmail.com]
